@@ -69,7 +69,7 @@ def AvgPricePerColor(file_path):
     return avg_price_color_loc
 ```
 
-### 1. 6. Median Carat of Premium Diamonds
+### 6. Median Carat of Premium Diamonds
 
 Computes the median carat weight for diamonds with the "Premium" cut.
 
